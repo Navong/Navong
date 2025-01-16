@@ -15,30 +15,6 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-FFDD00?style=for-the-badge&logo=zustand&logoColor=black)
 
-## 🚀 About Me
-<!-- - 🔭 I'm currently working on **** -->
-- 🌱 I'm currently learning **CI/CD on Azure Platform**
-<!-- - 👯 I'm looking to collaborate on **Open Source Projects** -->
-- 💬 Ask me about **Next.js, React, and Web Development**
-<!-- - 📫 How to reach me: **[Your Email]** -->
-
-## 🏆 Projects
-### Daily News
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Navong&repo=news-web&theme=radical)](https://github.com/Navong/news-web)
-- A modern, performant news website leveraging Next.js App Router
-- Next.js 15 (App Router), TailwindCSS, TypeScript
-
-<!-- ### [Project Name 2]
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Navong&repo=project-2&theme=radical)](https://github.com/Navong/project-2)
-- Brief description of project 2
-- Technologies used -->
-
-## 🌐 Connect with Me
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url) -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://navong.xyz)
-
-⭐️ From [Navong](https://github.com/Navong)
 
 
 
