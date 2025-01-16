@@ -24,7 +24,7 @@
 
 ## 🏆 Projects
 ### Daily News
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Navong&repo=news-web&theme=radical)](https://github.com/Navong/project-1)
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Navong&repo=news-web&theme=radical)](https://github.com/Navong/news-web)
 - A modern, performant news website leveraging Next.js App Router
 - Next.js 15 (App Router), TailwindCSS, TypeScript
 
